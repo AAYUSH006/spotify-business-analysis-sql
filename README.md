@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/project_banner.png" alt="Spotify Business Analysis using SQL" width="100%">
+  <img src="images/spotify_logo.jpg" alt="Spotify Business Analysis using SQL" width="100%">
 </p>
 
 <h1 align="center">🎵 Spotify Business Analysis using SQL</h1>
@@ -92,7 +92,7 @@ spotify-business-analysis-sql/
 │   └── business_insights.md
 │
 ├── images/
-│   ├── project_banner.png
+│   ├── spotify_logo.jpg
 │   ├── top_artists_output.png
 │   └── schema.png
 │
