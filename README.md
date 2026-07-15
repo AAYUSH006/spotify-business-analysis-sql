@@ -159,7 +159,6 @@ ORDER BY total_streams DESC;
 
 # 📸 Sample Query Output
 
-> **Add your query result screenshot here after running the SQL query.**
 
 <p align="center">
 <img src="images/top_artists_output.png" width="900">
